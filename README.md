@@ -1,4 +1,4 @@
-# Maquina virtual - Brenda
+# Máquina virtual - Brenda
 # Página de Inicio con Redirección para Acceso Multiusuario 
 
 ## Descripción
